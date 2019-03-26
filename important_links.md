@@ -5,3 +5,5 @@
 * [Batch Norm Backpropagation](http://cthorey.github.io./backpropagation/)
 * [Is Batch Norm a regularizer?](https://medium.com/@SeoJaeDuk/deeper-understanding-of-batch-normalization-with-interactive-code-in-tensorflow-manual-back-1d50d6903d35)
 
+**Computer Vision**
+* [CMU Lectures on Traditional/Basics](http://www.cs.cmu.edu/~16385/s17/)
