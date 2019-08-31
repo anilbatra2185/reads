@@ -15,3 +15,6 @@
 **Optimization**
 * [Convex Optimization by Stephen Boyd](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 * [Algebra, Topology, Differential Calculus, and Optimization Theory](http://www.cis.upenn.edu/~jean/gbooks/geomath.html)
+
+**Maths**
+* [Intro to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf)
