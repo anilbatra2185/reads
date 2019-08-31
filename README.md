@@ -15,6 +15,14 @@
 **Optimization**
 * [Convex Optimization by Stephen Boyd](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 * [Algebra, Topology, Differential Calculus, and Optimization Theory](http://www.cis.upenn.edu/~jean/gbooks/geomath.html)
+* [Tutorial on Neural Network Optimization Problems by Ian Goodfellow](http://videolectures.net/deeplearning2015_goodfellow_network_optimization/)
 
 **Maths**
 * [Intro to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf)
+
+**Bayesian**
+* [Bayesian Nonparametrics by Yee Whye Teh](http://videolectures.net/mlss2011_teh_nonparametrics/)
+
+**Others**
+* [Meta-Learning - ICML 2019](https://sites.google.com/view/icml19metalearning)
+
