@@ -11,3 +11,7 @@
 
 **Computer Vision**
 * [CMU Lectures on Traditional/Basics](http://www.cs.cmu.edu/~16385/s17/)
+
+**Optimization**
+* [Convex Optimization by Stephen Boyd](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+* [Algebra, Topology, Differential Calculus, and Optimization Theory](http://www.cis.upenn.edu/~jean/gbooks/geomath.html)
