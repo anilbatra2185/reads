@@ -12,6 +12,16 @@
 **Computer Vision**
 * [CMU Lectures on Traditional/Basics](http://www.cs.cmu.edu/~16385/s17/)
 
+**Seq2Seq and Transformers**
+* [Visualizing A Neural Machine Translation Model](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+* [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt)
+* [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+* [Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
+* [Transformers in Natural Language Processing — A Brief Survey](https://eigenfoo.xyz/transformers-in-nlp/)
+* [The Annotated Transformer - PyTorch](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+* [Reference Paper - Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+
+
 **Optimization**
 * [Convex Optimization by Stephen Boyd](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 * [Algebra, Topology, Differential Calculus, and Optimization Theory](http://www.cis.upenn.edu/~jean/gbooks/geomath.html)
